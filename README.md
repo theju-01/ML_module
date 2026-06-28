@@ -1,23 +1,10 @@
-# ML Module
+<<<<<<< HEAD
+\# dt\_ml
 
-This repository contains the Machine Learning component of the larger project pipeline.
 
-## Team Members
-- Thejaswini
-- Lakshmi
-- Dilli priya
 
-## Responsibilities
-- Data preprocessing
-- Model training
-- Model evaluation
-- Inference pipeline
+Machine learning baseline analytics project.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-## Notes
-This repository will later be integrated into the complete project pipeline.
+=======
+# dt_ml
+>>>>>>> 445b5e38cdefae6ab8292e1aa549473aa4ddf349
