@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dt_ml"
+version = "0.1.0"
+dependencies = [
+    "pandas",
+    "pytest"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
